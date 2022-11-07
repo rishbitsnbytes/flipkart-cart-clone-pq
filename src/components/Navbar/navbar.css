@@ -1,0 +1,10 @@
+.nav-bar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background-color: #4D96FB;
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 2px );
+    box-shadow: 0px 6px 10px 1px #696969;
+}

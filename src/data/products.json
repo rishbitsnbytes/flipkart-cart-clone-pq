@@ -1,0 +1,151 @@
+[
+  {
+    "_id": 1,
+    "title": "Single Breasted Checkered Men Suit",
+    "originalMRP": 17799,
+    "discountPercent": 15,
+    "productCategory": "Clothing",
+    "gender": "Male",
+    "brand": "Allen Solly",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 2,
+    "title": "Gods & Kings suit Solid Men Suit",
+    "originalMRP": 15799,
+    "discountPercent": 25,
+    "productCategory": "Clothing",
+    "gender": "Male",
+    "brand": "Louis Philippe",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 3,
+    "title": "2 Piece Solid Men Suit",
+    "originalMRP": 9799,
+    "discountPercent": 10,
+    "productCategory": "Clothing",
+    "gender": "Male",
+    "brand": "Van Heusen",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 4,
+    "title": "Motorsport Full Sleeve Solid Men Casual Jacket",
+    "originalMRP": 6999,
+    "discountPercent": 10,
+    "productCategory": "Clothing",
+    "gender": "Male",
+    "brand": "Puma",
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 5,
+    "title": "Full Sleeve Solid Men Leather Jacket",
+    "originalMRP": 7499,
+    "discountPercent": 15,
+    "productCategory": "Clothing",
+    "gender": "Male",
+    "brand": "Bermuda",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 6,
+    "title": "Checkered Single Breasted Casual Women Blazer  (Grey)",
+    "originalMRP": 3799,
+    "discountPercent": 15,
+    "productCategory": "Clothing",
+    "gender": "Female",
+    "brand": "Allen Solly",
+    "sizes": [
+      "S",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 7,
+    "title": "Solid Single Breasted Casual Women Blazer  (Grey)",
+    "originalMRP": 4299,
+    "discountPercent": 25,
+    "productCategory": "Clothing",
+    "gender": "Female",
+    "brand": "Allen Solly",
+    "sizes": [
+      "S",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 8,
+    "title": "Striped Single Breasted Casual Women Blazer  (Black)",
+    "originalMRP": 2299,
+    "discountPercent": 25,
+    "productCategory": "Clothing",
+    "gender": "Female",
+    "brand": "Van Heusen",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 9,
+    "title": "Full Sleeve Self Design Women Casual Jacket",
+    "originalMRP": 6999,
+    "discountPercent": 30,
+    "productCategory": "Clothing",
+    "gender": "Female",
+    "brand": "Van Heusen",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  },
+  {
+    "_id": 10,
+    "title": "450 Long Hooded Down Coat Full Sleeve Solid Women Puffer Jacket",
+    "originalMRP": 11999,
+    "discountPercent": 30,
+    "productCategory": "Clothing",
+    "gender": "Female",
+    "brand": "Puma",
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "imgUrl": "https://raw.githubusercontent.com/rishbitsnbytes/flipkart-clone-pq/main/src/assets/prod-images/"
+  }
+]
