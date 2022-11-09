@@ -1,3 +1,12 @@
 /* CSS Import */
 @import url(https://cosmos-ui-cl-ufa.vercel.app/styles/cosmos-ui.css);
 
+.align-self-center {
+    align-self: center;
+}
+
+:root {
+    --color-primary: #FB641B;
+    --color-secondary: #4D96FB;
+    --color-tertiary: #388E3C;
+}

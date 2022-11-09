@@ -1,5 +1,11 @@
+import { CartMain } from "../../components";
+
 const CartPage = () => {
-  return <h1>This is Cart Page</h1>;
+  return (
+    <div>
+      <CartMain />
+    </div>
+  );
 };
 
 export { CartPage };

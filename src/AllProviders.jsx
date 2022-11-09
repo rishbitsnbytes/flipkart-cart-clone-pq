@@ -1,5 +1,9 @@
-import { ProductProvider } from "./contexts";
+import { ProductProvider, CartProvider } from "./contexts";
 
 export const AllProviders = ({ children }) => {
-  return <ProductProvider>{children}</ProductProvider>;
+  return (
+    <ProductProvider>
+      <CartProvider>{children}</CartProvider>
+    </ProductProvider>
+  );
 };
