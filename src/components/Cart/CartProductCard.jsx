@@ -90,6 +90,16 @@ const CartProductCard = ({ product, saveForLaterCard }) => {
     addToCart();
   };
 
+  const handleRemoveFromSaveLater = () => {
+    let saveForLaterNewItems = saveForLaterItems.filter(
+      (item) => item._id !== _id
+    );
+    cartDispatch({
+      type: "UPDATE_SAVE_FOR_LATER",
+      payload: { saveForLaterItems: saveForLaterNewItems },
+    });
+  };
+
   return (
     <div className="cart-product-card flex-row flex-justify-evenly flex-align-center gap-1 w-full h-fit rounded-md">
       <div className="w-30-pc h-full">
@@ -158,6 +168,12 @@ const CartProductCard = ({ product, saveForLaterCard }) => {
               onClick={(event) => handleMoveToCart(event)}
             >
               Move To Cart
+            </button>
+            <button
+              className="btn btn-secondary px-2 py-1 rounded-md w-full align-self-center"
+              onClick={(event) => handleRemoveFromSaveLater(event)}
+            >
+              Remove From Save Later
             </button>
           </div>
         ) : (
